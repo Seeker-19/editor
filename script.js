@@ -8,7 +8,7 @@ let linkButton = document.getElementById("createLink");
 let alignButtons = document.querySelectorAll(".align");
 let spacingButtons = document.querySelectorAll(".spacing");
 let formatButtons = document.querySelectorAll(".format");
-
+//ufhdvhdfhdfjvhdf
 let scriptButtons = document.querySelectorAll(".script");
 
 let fontList = [
