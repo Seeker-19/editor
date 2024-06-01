@@ -12,7 +12,7 @@ let formatButtons = document.querySelectorAll(".format");
 let scriptButtons = document.querySelectorAll(".script");
 //djfhvdkjhdjvhdjvhdjvhdvjdsvkndsvv
 //dsnfdsjhdskjvhdjkvhdsjhdsjvdsvdsv
-let fontList = ["Arial", "Verdana", "Times New Roman", "Garamond", "Georgia"];
+let fontList = ["Arial", "Verdana", "Times New Roman", "Garamond"];
 ///dsjhvdshjbhdsvhdsjhvbdsvhbdsv
 ///dsjvhdsjvhdsjvhdsjvbdvjbdsv
 const initializer = () => {
