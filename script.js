@@ -10,7 +10,8 @@ let spacingButtons = document.querySelectorAll(".spacing");
 let formatButtons = document.querySelectorAll(".format");
 //ufhdvhdfhdfjvhdf
 let scriptButtons = document.querySelectorAll(".script");
-
+//djfhvdkjhdjvhdjvhdjvhdvjdsvkndsvv
+//dsnfdsjhdskjvhdjkvhdsjhdsjvdsvdsv
 let fontList = [
   "Arial",
   "Verdana",
@@ -20,7 +21,8 @@ let fontList = [
   "Courier New",
   "cursive",
 ];
-
+///dsjhvdshjbhdsvhdsjhvbdsvhbdsv
+///dsjvhdsjvhdsjvhdsjvbdvjbdsv
 const initializer = () => {
   highlighter(optionsB, true);
   highlighter(alignButtons, true);
